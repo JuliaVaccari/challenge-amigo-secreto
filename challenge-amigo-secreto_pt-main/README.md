@@ -1,7 +1,5 @@
 <h1 align="center"> Challenge do Amigo Secreto </h1>
 
-![CHALLENGE]([https://github.com/user-attachments/assets/51fe03a0-8502-4e0b-8f78-c87109a8f52e](https://imgur.com/a/kTPfHLS))
-
 # ✔️: Descrição 
 O objetivo principal deste desafio é desenvolver habilidades em lógica de programação.
 
